@@ -3,7 +3,7 @@
 ```console
 sudo apt-get install python3 python3-pip
 pip3 install virtualenv
-git clone ...
+git clone git@github.com:b3xul/QR_flowchart_compiler.git
 cd QR_Project
 virtualenv .
 source bin/activate
