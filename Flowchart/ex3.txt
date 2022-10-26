@@ -1,0 +1,15 @@
+1P: Open Netflix
+2D: Is there a new season of Alice in Borderlands?
+3T: Watch it
+4D: Are there new Rick and Morty episodes?
+5D: Is it too early to rewatch the old ones?
+6P: Is that movie I wanted to see on Netflix?
+7D: Should I watch it anyway?
+8T: Regret
+9T: Unsubscribe from Netflix
+
+1-2-Yes-3
+2-No-4-Yes!-3
+4-No..-5-No-3
+5-Yes-6-Not really, just an imitation-7-Yes-8
+6-No, just this random film with 78% rating-7-No-9

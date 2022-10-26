@@ -1,0 +1,8 @@
+graphviz==0.20.1
+imutils==0.5.4
+numpy==1.23.3
+opencv-python==4.2.0.34
+Pillow==9.2.0
+pypng==0.20220715.0
+PyQRCode==1.2.1
+pyzbar==0.1.9
